@@ -1,4 +1,5 @@
 # BIO
 creating our first repositorie in school. 
 
-we learn to use html, css and javascript. When i finish the highschool i will study informatic engineer.
+We learn to use HTML, CSS and Javascript. When i finish the highschool i will study computer engineer.
+In the future I would like to have my own tecnology company.
